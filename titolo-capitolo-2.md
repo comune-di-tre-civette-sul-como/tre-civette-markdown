@@ -1,0 +1,3 @@
+# Capitolo 2 (markdown)
+
+In questo capitolo (markdown), vengono trattate ...
